@@ -27,3 +27,8 @@ Carl Sagan once said, maybe not verbatim;
 - [ ] Fix bug
 
 Fun :joy:
+
+**How to submit assignments on NMIT Online**
+
+Your tutor may ask you to submit assignments online for feedback and/or marking. Some tutors are also using the 
+Turnitin.com plagiarism detection system to help you maintain the academic integrity of your assessed work.
