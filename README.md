@@ -20,4 +20,4 @@ Carl Sagan once said, maybe not verbatim;
 
 [Link to Google](www.google.com)
 
-`console.log("Hello world!")**`
+`console.log("Hello world!")`
