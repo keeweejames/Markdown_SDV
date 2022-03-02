@@ -23,5 +23,7 @@ Carl Sagan once said, maybe not verbatim;
 `console.log("Hello world!")`
 
 -[x] Write readme repo
--[] Update repository
--[] Fix bug
+-[ ] Update repository
+-[ ] Fix bug
+
+Fun :joy:
