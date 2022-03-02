@@ -18,6 +18,6 @@ Carl Sagan once said, maybe not verbatim;
 > We all live on this
 > Pale Blue Dot
 
-[title](www.google.com)
+[Link to Google](www.google.com)
 
-`console.log("Hello world!")`
+`console.log("Hello world!")**`
